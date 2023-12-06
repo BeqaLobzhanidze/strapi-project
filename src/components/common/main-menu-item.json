@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_common_main_menu_items",
+  "info": {
+    "displayName": "main-menu-item"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "pageId": {
+      "type": "string"
+    }
+  }
+}

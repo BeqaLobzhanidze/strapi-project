@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_common_language_switchers",
+  "info": {
+    "displayName": "language-switcher",
+    "icon": "earth",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "displayName": "language-switcher-item",
+      "type": "component",
+      "repeatable": true,
+      "component": "common.language-switcher-item"
+    }
+  }
+}

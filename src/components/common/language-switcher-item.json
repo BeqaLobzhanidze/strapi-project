@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_common_language_switcher_items",
+  "info": {
+    "displayName": "language-switcher-item",
+    "icon": "plus",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "string"
+    },
+    "flag": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "locale": {
+      "type": "string"
+    }
+  }
+}

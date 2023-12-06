@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_common_social_medias",
+  "info": {
+    "displayName": "social-media",
+    "icon": "twitter",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "displayName": "social-media-item",
+      "type": "component",
+      "repeatable": true,
+      "component": "common.social-media-item"
+    }
+  }
+}

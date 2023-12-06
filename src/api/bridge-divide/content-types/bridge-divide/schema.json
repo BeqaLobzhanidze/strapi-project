@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "bridge_divides",
+  "info": {
+    "singularName": "bridge-divide",
+    "pluralName": "bridge-divides",
+    "displayName": "bridge-divide",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "page": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}
